@@ -1,60 +1,77 @@
-*Real-Time Language Translator Web App*
+# Real-Time Language Translator Web App
+
 A real-time language translation web application with a sleek, glassmorphic design and animated background. This app supports text translation between various languages and also includes speech-to-text and text-to-speech functionalities. The design is modern and user-friendly, ensuring an engaging user experience.
 
+---
 
-*Features*
-Real-Time Translation: Quickly translate text between various languages.
+## Features
 
-Language Support: Over 30 languages to choose from, including English, Spanish, French, Arabic, and more.
+- **Real-Time Translation**  
+  Quickly translate text between various languages.
 
-Speech-to-Text: Converts spoken language into written text using the browser’s speech recognition capabilities.
+- **Language Support**  
+  Over 30 languages to choose from, including English, Spanish, French, Arabic, and more.
 
-Text-to-Speech: Converts translated text to speech. Please note that speech functionality is only supported for certain languages based on browser compatibility.
+- **Speech-to-Text**  
+  Converts spoken language into written text using the browser’s speech recognition capabilities.
 
-Animated Background: Includes dynamic floating bubbles and alphabets for an interactive experience.
+- **Text-to-Speech**  
+  Converts translated text to speech.  
+  _Note: Speech functionality is only supported for certain languages based on browser compatibility._
 
-Responsive Design: Optimized for mobile and desktop devices.
+- **Animated Background**  
+  Includes dynamic floating bubbles and alphabets for an interactive experience.
 
+- **Responsive Design**  
+  Optimized for mobile and desktop devices.
 
-*Technologies Used*
-Frontend:
+---
 
-HTML
+## Technologies Used
 
-CSS (Glassmorphic UI with animations)
+### Frontend
 
-JavaScript (Speech-to-Text, Text-to-Speech, API integration)
+- HTML  
+- CSS (Glassmorphic UI with animations)  
+- JavaScript (Speech-to-Text, Text-to-Speech, API integration)
 
-*API:*
+### API
 
-MyMemory Translation API: Used for translating text between various languages.
+- **MyMemory Translation API**  
+  Used for translating text between various languages.
 
+### Browser Features
 
-*Browser Features:*
+- **Web Speech API**  
+  - Speech-to-Text  
+  - Text-to-Speech
 
-Web Speech API (for Speech-to-Text and Text-to-Speech functionality)
+---
 
+## Limitations
 
-*Limitations*
-Speech-to-Text: Only supported by browsers with Web Speech API capabilities.
+- **Speech-to-Text**  
+  Only supported by browsers with Web Speech API capabilities.
 
-Text-to-Speech: Supported for a limited number of languages, and compatibility varies by browser.
+- **Text-to-Speech**  
+  Supported for a limited number of languages, and compatibility varies by browser.  
+  _Unsupported languages for speech output include: Chinese, Arabic, Tamil, Telugu, Urdu, and others._
 
-Unsupported languages for speech output include: Chinese, Arabic, Tamil, Telugu, Urdu, and others.
+- **Translation Quality**  
+  Translations are powered by the MyMemory API. While generally accurate, results may not always be perfect.
 
-Translation Quality: Translations are powered by the MyMemory API, and while generally accurate, may not always be perfect.
+---
 
+## How to Use
 
-*How to Use*
-Input Text: Type or speak your text into the input field.
+1. **Input Text**: Type or speak your text into the input field.
+2. **Select Languages**: Choose the source and target languages from the dropdown menus.
+3. **Translate**: Click the **Translate** button to view the translated text.
+4. **Speech-to-Text**: Click the **Speak** button to input text using voice recognition.
+5. **Text-to-Speech**: Click the **Listen** button to hear the translated text spoken aloud.
 
-Select Languages: Choose the source and target languages from the dropdown menus.
+---
 
-Translate: Click the "Translate" button to view the translated text.
-
-Speech-to-Text: Click the "Speak" button to input text using voice recognition.
-
-Text-to-Speech: Click the "Listen" button to hear the translated text spoken aloud.
 
 
 1. Home Page
