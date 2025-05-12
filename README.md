@@ -74,20 +74,20 @@ A real-time language translation web application with a sleek, glassmorphic desi
 
 
 
-1. Home Page
+## 1. Home Page
 
 The main landing page of the app where users can type or speak their input for translation.
 
 ![image](https://github.com/user-attachments/assets/d9f44657-ff35-4cd9-b28f-6b6e5a6fae21)
 
-2. Language Selection
+## 2. Language Selection
 
 Dropdown menus for selecting the source and target languages.
 
 ![image](https://github.com/user-attachments/assets/291e7c5c-003f-48b1-80d9-21aed74d1451)
 
 
-3. Text Translation
+## 3. Text Translation
 
 The output section showing the translated text after the user inputs their text.
 
