@@ -1,7 +1,8 @@
-Real-Time Language Translator Web App
+*Real-Time Language Translator Web App*
 A real-time language translation web application with a sleek, glassmorphic design and animated background. This app supports text translation between various languages and also includes speech-to-text and text-to-speech functionalities. The design is modern and user-friendly, ensuring an engaging user experience.
 
-Features
+
+*Features*
 Real-Time Translation: Quickly translate text between various languages.
 
 Language Support: Over 30 languages to choose from, including English, Spanish, French, Arabic, and more.
@@ -14,7 +15,8 @@ Animated Background: Includes dynamic floating bubbles and alphabets for an inte
 
 Responsive Design: Optimized for mobile and desktop devices.
 
-Technologies Used
+
+*Technologies Used*
 Frontend:
 
 HTML
@@ -23,15 +25,17 @@ CSS (Glassmorphic UI with animations)
 
 JavaScript (Speech-to-Text, Text-to-Speech, API integration)
 
-API:
+*API:*
 
 MyMemory Translation API: Used for translating text between various languages.
 
-Browser Features:
+
+*Browser Features:*
 
 Web Speech API (for Speech-to-Text and Text-to-Speech functionality)
 
-Limitations
+
+*Limitations*
 Speech-to-Text: Only supported by browsers with Web Speech API capabilities.
 
 Text-to-Speech: Supported for a limited number of languages, and compatibility varies by browser.
@@ -40,7 +44,8 @@ Unsupported languages for speech output include: Chinese, Arabic, Tamil, Telugu,
 
 Translation Quality: Translations are powered by the MyMemory API, and while generally accurate, may not always be perfect.
 
-How to Use
+
+*How to Use*
 Input Text: Type or speak your text into the input field.
 
 Select Languages: Choose the source and target languages from the dropdown menus.
